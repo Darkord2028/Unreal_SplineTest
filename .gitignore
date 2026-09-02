@@ -1,0 +1,85 @@
+============================================================
+Unreal Engine Blueprint Project: SplineTest
+Repository: Unreal_SplineTest
+============================================================
+============================================================
+Unreal Engine Generated Files
+============================================================
+Compiled binaries
+
+/SplineTest/Binaries/
+
+Temporary/intermediate build files
+
+/SplineTest/Intermediate/
+
+Unreal Editor generated files
+
+/SplineTest/Saved/
+
+Derived asset/shader cache
+
+/SplineTest/DerivedDataCache/
+
+Build output
+
+/SplineTest/Build/
+
+============================================================
+Unreal Engine Plugin Generated Files
+============================================================
+
+/SplineTest/Plugins//Binaries/
+/SplineTest/Plugins//Intermediate/
+
+============================================================
+Unreal Generated Map Data
+============================================================
+Generated lighting/build data
+
+/SplineTest/Content/**/*_BuiltData.uasset
+
+============================================================
+Unreal / Editor Files
+============================================================
+Visual Studio / Rider project files
+
+/SplineTest/.vs/
+/SplineTest/.idea/
+/SplineTest/.run/
+
+Generated solution/project files
+
+/SplineTest/.sln
+/SplineTest/.suo
+/SplineTest/.VC.db
+/SplineTest/.VC.opendb
+/SplineTest/.xcodeproj/
+/SplineTest/.xcworkspace/
+
+============================================================
+Operating System Files
+============================================================
+Windows
+
+/SplineTest/Thumbs.db
+/SplineTest/ehthumbs.db
+
+macOS
+
+/SplineTest/.DS_Store
+/SplineTest/.DS_Store?
+/SplineTest/.AppleDouble
+/SplineTest/.LSOverride
+/SplineTest/._*
+
+Linux
+
+/SplineTest/*~
+/SplineTest/.directory
+
+============================================================
+Obsidian
+============================================================
+
+/SplineTest/.obsidian/
